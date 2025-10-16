@@ -1,1 +1,1 @@
-print("Hello")
+print("졸음운전 감지 시스템 시작")
