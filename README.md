@@ -4,9 +4,9 @@
 운전자의 **눈 깜빡임**을 분석하여 졸음 여부 판단하여 경고음을 통해 운전자를 깨움
 
 ##주요 기술
--OpenCV 얼굴 인식 및 눈 인식
--Haar Cascade Classifier를 이용해 얼굴 및 눈 인식 
--playsound라이브러리로 경고음 출력
+- OpenCV 얼굴 인식 및 눈 인식
+- Haar Cascade Classifier를 이용해 얼굴 및 눈 인식 
+- playsound라이브러리로 경고음 출력
 
 ##시스템 개요
 1.카메라 영상 입력
